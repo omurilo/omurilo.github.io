@@ -1,0 +1,24 @@
+baseURL = 'https://blog.omurilo.dev/'
+languageCode = 'en-us'
+title = 'Hi! My name is Murilo.'
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[params]
+author = "oMuriloDev"
+github = "omurilo"
+twitter = "opequidugoias"
+description = "This is my personal blog, I'll wrote anything in anyway."
+email = "hi@omurilo.dev"
+keywords = "cc, platform engineering, devops, sre, swe"
+url = "https://blog.omurilo.dev"
+lastmod = true
+rss = true
+location = "Brazil"
+avatar = "/images/user.jpg"
+favicon = "/images/favicon-dark.svg"
+headerIcon = "/images/fluidicon.png"
